@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -49,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0257-binary-tree-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
