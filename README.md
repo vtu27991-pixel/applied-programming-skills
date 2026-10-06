@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0100-same-tree) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0100-same-tree) |
@@ -99,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0096-unique-binary-search-trees) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/vtu27991-pixel/applied-programming-skills/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
